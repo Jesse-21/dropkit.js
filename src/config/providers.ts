@@ -20,3 +20,4 @@ walletconnect: {
      },
    },
 }
+const dropkit = await DropKit.create('LCy1Nm6x8bQT6LEl2sjk', false, providers);
